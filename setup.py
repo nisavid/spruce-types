@@ -121,7 +121,7 @@ TROVE_CLASSIFIERS = \
 
 SETUP_DEPS = ()
 
-INSTALL_DEPS = ()
+INSTALL_DEPS = ('spruce-exc', 'spruce-lang')
 
 EXTRAS_DEPS = {}
 
